@@ -1,0 +1,4 @@
+{"jobs":[
+ {"title":"Support Engineer","location":"Madrid","secondaryLocations":[{"location":"Remote - EU"},{"location":null}],"isRemote":null,"workplaceType":"Remote","publishedAt":"2026-09-18T08:41:19.683+00:00","jobUrl":"https://jobs.ashbyhq.com/acme/abc","descriptionPlain":"Plain text"},
+ {"title":"Designer","location":"","secondaryLocations":[],"isRemote":false,"workplaceType":"Hybrid","publishedAt":12345,"jobUrl":"https://jobs.ashbyhq.com/acme/def","descriptionPlain":""}
+]}

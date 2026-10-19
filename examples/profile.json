@@ -1,0 +1,15 @@
+{
+  "max_years": 4,
+  "tiers": [
+    {"name": "UK", "location": "united kingdom|\\buk\\b|london|manchester|edinburgh", "remote_required": true},
+    {"name": "WORLD", "location": "worldwide|anywhere|global|international"},
+    {"name": "EUROPE", "location": "europe|emea|\\beu\\b|\\bcet\\b", "remote_required": true}
+  ],
+  "description_guesses": [
+    {"name": "EUROPE?desc", "description": "europe|emea|\\bcet\\b|\\bgmt\\b|european time"}
+  ],
+  "rank": ["UK", "WORLD", "EUROPE", "EUROPE?desc", "REMOTE?"],
+  "skills": ["python", "django", "fastapi", "postgres", "sql", "docker", "aws", "react", "typescript", "rest api", "c#"],
+  "missing_skills": ["kubernetes", "terraform", "scala", "elixir"],
+  "languages": ["german", "french"]
+}

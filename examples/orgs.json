@@ -1,0 +1,26 @@
+{
+ "greenhouse": [
+  "cloudflare",
+  "datadog",
+  "figma",
+  "gitlab",
+  "mongodb",
+  "stripe",
+  "twilio",
+  "vercel"
+ ],
+ "ashby": [
+  "linear",
+  "notion",
+  "posthog",
+  "ramp",
+  "sentry",
+  "supabase"
+ ],
+ "lever": [
+  "binance",
+  "palantir",
+  "spotify",
+  "toptal"
+ ]
+}
